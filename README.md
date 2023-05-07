@@ -1,4 +1,4 @@
-# React Information Flow Lab
+# React Information Flow Lab c
 
 ## Learning Goals
 
